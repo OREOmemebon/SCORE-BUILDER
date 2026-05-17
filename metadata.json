@@ -1,0 +1,8 @@
+{
+  "name": "スコアビルダー",
+  "description": "音声、曲名、画像から楽譜を自動生成し、PDFとして書き出せるピアノ楽譜作成アプリ。自作の楽譜編集機能も搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
